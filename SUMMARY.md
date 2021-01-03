@@ -1,6 +1,6 @@
 # Table of contents
 
-* [JSPrismarinee](README.md)
+* [JSPrismarine](README.md)
 
 ## Plugin API
 
