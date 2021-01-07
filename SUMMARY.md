@@ -13,3 +13,9 @@
 * [Player Events](events/player-events.md)
 * [Raknet events](events/raknet-events.md)
 
+## BlockManager
+
+## ChatManager
+
+## PlayerManager
+
