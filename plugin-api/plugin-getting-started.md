@@ -8,7 +8,7 @@ description: JSPrismarine plugin-development quick-start guide
 
 Start by executing the following command which will guide you through a step-by-step process
 
-```
+```text
 $ npx @jsprismarine/create-prismarine-plugin
 ```
 
@@ -25,11 +25,11 @@ import type PluginApi from '@jsprismarine/prismarine/dist/src/plugin/api/version
 
 export default class PluginBase {
     api: PluginApi;
-    
+
     constructor(api: PluginApi) {
         this.api = api;
     }
-    
+
     public async onEnable() { }
     public async onDisable() { }
 }
@@ -49,6 +49,4 @@ export default class PluginBase {
 ```
 {% endtab %}
 {% endtabs %}
-
-
 
